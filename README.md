@@ -17,7 +17,7 @@ Web: https://ok.org.br | Twitter: [@okfnbr](https://twitter.com/okfnbr) | Facebo
 
 O **Laboratório Analytics** é um laboratório de pesquisa, formação e inovação em Ciência de Dados Cívica na Universidade Federal de Campina Grande (UFCG). Desenvolve cursos, pesquisas e projetos de impacto social para avançar o estado da arte no uso de Ciência de Dados, Aprendizagem de Máquina e Visualização de Dados para a cidadania.
 
-Facebook: [fb.com/analytics.ufcg/](fb.com/analytics.ufcg/) | [github.com/analytics-ufcg](github.com/analytics-ufcg)
+Facebook: [@analytics.ufcg](https://fb.com/analytics.ufcg/) | Github: [@analytics-ufcg](https://github.com/analytics-ufcg)
 
 A **Dado Capital** é uma instituição de impacto social. Une competência regulatória e tecnológica para transformar informação em conhecimento. Simula e antecipa ações no Legislativo, dando um termômetro do que será discutido e votado. Reinventa, assim, a maneira das pessoas compreenderem questões essenciais que impactam suas vidas e as incentiva a participar de debates públicos, promovendo a democracia colaborativa
 
