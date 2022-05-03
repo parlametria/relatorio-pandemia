@@ -9,3 +9,7 @@ Neste diretório estão os dados gerados sobre comissões e plenário da Câmara
   - [`parlametria_leis_saude_educacao_pandemia.csv`](./leis/parlametria_leis_saude_educacao_pandemia.csv)
     - Projetos de lei aprovados entre 2020 e 2021, incluindo a origem da iniciativa e a distinção entre votação nominal e simbólica
 
+## Como baixar os dados
+
+No [README do projeto](../README.md) é possível encontrar a informação sobre como os dados podem ser baixados.
+

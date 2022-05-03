@@ -8,6 +8,17 @@ Este projeto contém um diretório principal, descrito abaixo.
 
 - `raw_data`: Neste diretório estão os conjuntos de dados gerados para que análises fossem feitas no relatório. Mais detalhes na [documentação do diretório](./raw_data/README.md).
 
+## Como baixar os dados
+
+Como os conjuntos de dados estão no próprio repositório, ao baixar o repositório os arquivos serão baixados também. Uma alternativa é usar a própria interface do Github (onde o repositório está hospedado). Para isso, existem duas maneiras que o Github apresenta os arquivos e os GIFs a seguir exemplificam como os conjuntos de dados podem ser baixados em cada uma delas:
+
+1. O conjunto de dados é grande (assim, não é renderizado na página) e deve-se clicar no botão "Download"
+
+![baixa_csv_botao_download](./docs/assets/csv_download.gif)
+
+2. O conjunto de dados é pequeno (assim, é renderizado) e deve-se clicar no botão "Raw"
+
+![baixa_csv_botao_raw](./docs/assets/csv_raw.gif)
 
 ## Quem faz este projeto
 
